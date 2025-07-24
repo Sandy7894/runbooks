@@ -1,0 +1,3 @@
+check the app logs on why it is failing
+describe the app
+if the pod is crashing with OOMKilled, restart the pod
