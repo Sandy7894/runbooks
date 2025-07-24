@@ -1,0 +1,3 @@
+Generate a certificate using OpenSSL valid for 1 year,
+Update Kubernetes TLS secrets with the certificate and key,
+Restart the Kubernetes ingress controller
