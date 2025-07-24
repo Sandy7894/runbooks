@@ -1,0 +1,4 @@
+check the response time
+if the response is more than 5 seconds, check which fields application is trying to access
+check if the index exists
+otherwise create
