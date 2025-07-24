@@ -1,3 +1,5 @@
 Generate a certificate using OpenSSL valid for 1 year,
+Check the app name from and the kubernetes cluster name from the alert
+Switch the context to respective kubernetes cluster
 Update Kubernetes TLS secrets with the certificate and key,
 Restart the Kubernetes ingress controller
